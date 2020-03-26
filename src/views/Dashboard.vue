@@ -1,6 +1,6 @@
 <template>
     <v-app>
-        <v-navigation-drawer :mini-variant="mini" app :permanent="true">
+        <v-navigation-drawer :mini-variant="mini" app :permanent="true" color="primary" dark>
             <v-layout column fill-height>
                 <v-list dense>
                     <v-list-item class="px-2">
